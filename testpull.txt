@@ -1,2 +1,6 @@
 testtest
+<<<<<<< HEAD
 aaaa push
+=======
+aaaaaa tak push
+>>>>>>> 02ca2756be3a1f125695822fcd5ceb5c1da294fd
